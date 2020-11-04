@@ -1,5 +1,4 @@
-
-print("""
+"""
 Factoring simple trinomials
 Create a user interface using tkinter.
 There should be a label indicating instructions for what the user needs to do.
@@ -12,4 +11,4 @@ The program should display the factored form in an Entry widget.
 
 Extension: make the + between a,b and b,c buttons that will toggle
 between + and -.
-""")
+"""
